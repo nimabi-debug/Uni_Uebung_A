@@ -1,0 +1,14 @@
+C:\Users\Nick-PC\C sharp\Uni\A3\bin\Debug\net10.0\A3.exe
+C:\Users\Nick-PC\C sharp\Uni\A3\bin\Debug\net10.0\A3.deps.json
+C:\Users\Nick-PC\C sharp\Uni\A3\bin\Debug\net10.0\A3.runtimeconfig.json
+C:\Users\Nick-PC\C sharp\Uni\A3\bin\Debug\net10.0\A3.dll
+C:\Users\Nick-PC\C sharp\Uni\A3\bin\Debug\net10.0\A3.pdb
+C:\Users\Nick-PC\C sharp\Uni\A3\obj\Debug\net10.0\A3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick-PC\C sharp\Uni\A3\obj\Debug\net10.0\A3.AssemblyInfoInputs.cache
+C:\Users\Nick-PC\C sharp\Uni\A3\obj\Debug\net10.0\A3.AssemblyInfo.cs
+C:\Users\Nick-PC\C sharp\Uni\A3\obj\Debug\net10.0\A3.csproj.CoreCompileInputs.cache
+C:\Users\Nick-PC\C sharp\Uni\A3\obj\Debug\net10.0\A3.dll
+C:\Users\Nick-PC\C sharp\Uni\A3\obj\Debug\net10.0\refint\A3.dll
+C:\Users\Nick-PC\C sharp\Uni\A3\obj\Debug\net10.0\A3.pdb
+C:\Users\Nick-PC\C sharp\Uni\A3\obj\Debug\net10.0\A3.genruntimeconfig.cache
+C:\Users\Nick-PC\C sharp\Uni\A3\obj\Debug\net10.0\ref\A3.dll
